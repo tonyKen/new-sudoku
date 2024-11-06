@@ -1,6 +1,6 @@
 # Super Sudoku
 
-Currently hosted at [https://sudoku.tn1ck.com](https://sudoku.tn1ck.com).
+Currently hosted at [https://sudokusenlignegratuits.com](https://sudokusenlignegratuits.com).
 
 ![Screenshot of the sudoku app](./docs/screenshot-app-2024-08-25.png)
 
